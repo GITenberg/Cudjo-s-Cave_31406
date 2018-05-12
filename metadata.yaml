@@ -1,0 +1,39 @@
+_repo: Cudjo-s-Cave_31406
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Trowbridge, J. T. (John Townsend)
+    aliases:
+    - Trowbridge, John Townsend
+    - Trowbridge, J.T.
+    birthdate: 1827
+    deathdate: 1916
+    gutenberg_agent_id: '9020'
+    url: http://www.gutenberg.org/2009/agents/9020
+    wikipedia: http://en.wikipedia.org/wiki/John_Townsend_Trowbridge
+description: Four people find themselves trapped in an eastern Tennessee cave during
+  the Civil War era. Included in the cast of characters are a pacifist Quaker schoolmaster,
+  a sinister planter, a preacher's daughter, and two runaway slaves.
+gutenberg_issued: '2010-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31406'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Tennessee, East -- Fiction'
+- !lcsh 'War stories'
+- !lcsh 'Tennessee -- History -- Civil War, 1861-1865 -- Fiction'
+- !lcsh 'Quakers -- Fiction'
+- !lcsh 'Fugitive slaves -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcsh 'Abolitionists -- Fiction'
+- !lcsh 'Unionists (United States Civil War) -- Fiction'
+title: Cudjo's Cave
+url: http://www.gutenberg.org/ebooks/31406
